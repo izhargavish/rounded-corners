@@ -24,12 +24,12 @@
     "demo": [
         "http://jsfiddle.net/highcharts/2TuCW/"
     ],
-    "license" : "MIT <LICENSE>",
+    "license": "MIT <LICENSE>",
     "bugs": {
         "url": "https://github.com/highcharts/rounded-corners/issues"
     },
     "homepage": "https://github.com/highcharts/rounded-corners#readme",
     "dependencies": {
-        "Highcharts": ">=3.0.0"
+        "highcharts": ">=3.0.0"
     }
 }
